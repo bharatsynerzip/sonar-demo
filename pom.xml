@@ -20,12 +20,6 @@
     <quarkus.version>1.2.0.Final</quarkus.version>
     <!--<app.deploy.version>2.2.0</app.deploy.version>-->
   </properties>
-  <properties>
-  <sonar.projectKey>SampleTestProjectSyn</sonar.projectKey>
-  <sonar.organization>bharatsynerzip</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>6c20358497c22312ee6eff85e0c631075787f736</sonar.login>
-</properties>
   <dependencyManagement>
     <dependencies>
       <dependency>
